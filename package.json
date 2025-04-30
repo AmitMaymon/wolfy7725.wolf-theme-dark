@@ -4,7 +4,7 @@
   "description": "my little vs-code theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.99.0"
   },
   "publisher": "wolfy7725",
   "categories": [
